@@ -5,5 +5,5 @@ In single-point mode (the default mode), the target point can be moved around us
 
 Pressing **Enter** begins a frame dump. This saves every frame as a JPEG file into the 'framecapture' folder within the program's directory. This is a slow process and I only included it so that I could make a good frame rate demo video.
 
-![Single-point mode](https://raw.githubusercontent.com/george7378/autopid/master/_img/1.png)
-![Multi-point mode](https://raw.githubusercontent.com/george7378/autopid/master/_img/2.png)
+![Single-point mode](https://raw.githubusercontent.com/george7378/autopid/master/misc/readme/1.png)
+![Multi-point mode](https://raw.githubusercontent.com/george7378/autopid/master/misc/readme/2.png)
